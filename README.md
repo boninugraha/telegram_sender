@@ -9,11 +9,14 @@
         - Chat @get_id_bot in Telegram.
 - Create `.env` file
 - Fill these parameters inside the `.env`:
-```
-TOKEN="xxxx"
-CHAT_ID="xxxx"
-```
-
+    ```
+    TOKEN="xxxx"
+    CHAT_ID="xxxx"
+    ```
+- Prepare the python environment:
+    - Create environment `python -m venv .venv`
+    - Activate the environment.
+    - Install dependencies `pip install -r requirements.txt`
 
 ## Credits:
 - https://psujit775.medium.com/ihow-to-send-telegram-message-with-python-e826b94f1d9b
