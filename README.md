@@ -10,8 +10,13 @@
 - Create `.env` file
 - Fill these parameters inside the `.env`:
     ```
-    TOKEN="xxxx"
-    CHAT_ID="xxxx"
+    TOKEN="xxx"
+    CHAT_ID="xxx"
+    HTTP_PROXY="xxx"
+    HTTPS_PROXY="xxx"
+    PROXY_PORT="xxx"
+    API_ID="xxx"
+    API_HASH="xxx"
     ```
 - Prepare the python environment:
     - Create environment `python -m venv .venv`
