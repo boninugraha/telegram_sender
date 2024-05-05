@@ -22,7 +22,3 @@
     - Create environment `python -m venv .venv`
     - Activate the environment.
     - Install dependencies `pip install -r requirements.txt`
-
-## Credits:
-- https://psujit775.medium.com/ihow-to-send-telegram-message-with-python-e826b94f1d9b
-
