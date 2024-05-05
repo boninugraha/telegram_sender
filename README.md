@@ -18,7 +18,9 @@
     API_ID="xxx"
     API_HASH="xxx"
     ```
-- Prepare the python environment:
-    - Create environment `python -m venv .venv`
-    - Activate the environment.
-    - Install dependencies `pip install -r requirements.txt`
+
+## Quick Test
+```{bash}
+chmod 777 test-deployment.sh
+./test-deployment.sh
+```
