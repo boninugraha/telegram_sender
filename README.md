@@ -17,6 +17,7 @@
     PROXY_PORT="xxx"
     API_ID="xxx"
     API_HASH="xxx"
+    HTTP_PROXY_IP="xxx"
     ```
 
 ## Quick Test
